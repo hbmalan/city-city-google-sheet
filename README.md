@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-maps-with-google-sheets
+- Leaflet Map https://hbmalan.github.io/city-city-google-sheet
 - Google Sheets template https://docs.google.com/spreadsheets/d/1WzooxQNm-YVWfXXFBRbGowigJs7pX-ASb5nzMq9IK2c/edit#gid=0
 
 ## Create your own
